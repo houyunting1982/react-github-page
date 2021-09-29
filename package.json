@@ -2,7 +2,7 @@
   "name": "dev-news",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/houyunting1982/react-github-page/",
+  "homepage": "https://https://houyunting1982.github.io/react-github-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
