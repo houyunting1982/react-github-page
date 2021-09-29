@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//houyunting1982.github.io/react-github-page/static/css/main.303952ad.chunk.css",
-    "main.js": "//houyunting1982.github.io/react-github-page/static/js/main.21cbeb41.chunk.js",
-    "main.js.map": "//houyunting1982.github.io/react-github-page/static/js/main.21cbeb41.chunk.js.map",
-    "runtime-main.js": "//houyunting1982.github.io/react-github-page/static/js/runtime-main.a0b0d604.js",
-    "runtime-main.js.map": "//houyunting1982.github.io/react-github-page/static/js/runtime-main.a0b0d604.js.map",
-    "static/js/2.305b5942.chunk.js": "//houyunting1982.github.io/react-github-page/static/js/2.305b5942.chunk.js",
-    "static/js/2.305b5942.chunk.js.map": "//houyunting1982.github.io/react-github-page/static/js/2.305b5942.chunk.js.map",
-    "static/js/3.aec7903e.chunk.js": "//houyunting1982.github.io/react-github-page/static/js/3.aec7903e.chunk.js",
-    "static/js/3.aec7903e.chunk.js.map": "//houyunting1982.github.io/react-github-page/static/js/3.aec7903e.chunk.js.map",
-    "index.html": "//houyunting1982.github.io/react-github-page/index.html",
-    "static/css/main.303952ad.chunk.css.map": "//houyunting1982.github.io/react-github-page/static/css/main.303952ad.chunk.css.map",
-    "static/js/2.305b5942.chunk.js.LICENSE.txt": "//houyunting1982.github.io/react-github-page/static/js/2.305b5942.chunk.js.LICENSE.txt"
+    "main.css": "/react-github-page/static/css/main.303952ad.chunk.css",
+    "main.js": "/react-github-page/static/js/main.21cbeb41.chunk.js",
+    "main.js.map": "/react-github-page/static/js/main.21cbeb41.chunk.js.map",
+    "runtime-main.js": "/react-github-page/static/js/runtime-main.952111ae.js",
+    "runtime-main.js.map": "/react-github-page/static/js/runtime-main.952111ae.js.map",
+    "static/js/2.305b5942.chunk.js": "/react-github-page/static/js/2.305b5942.chunk.js",
+    "static/js/2.305b5942.chunk.js.map": "/react-github-page/static/js/2.305b5942.chunk.js.map",
+    "static/js/3.aec7903e.chunk.js": "/react-github-page/static/js/3.aec7903e.chunk.js",
+    "static/js/3.aec7903e.chunk.js.map": "/react-github-page/static/js/3.aec7903e.chunk.js.map",
+    "index.html": "/react-github-page/index.html",
+    "static/css/main.303952ad.chunk.css.map": "/react-github-page/static/css/main.303952ad.chunk.css.map",
+    "static/js/2.305b5942.chunk.js.LICENSE.txt": "/react-github-page/static/js/2.305b5942.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0b0d604.js",
+    "static/js/runtime-main.952111ae.js",
     "static/js/2.305b5942.chunk.js",
     "static/css/main.303952ad.chunk.css",
     "static/js/main.21cbeb41.chunk.js"
